@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.nav a,li,i{
+text-align: center;
+text-decoration: none;
+list-style: none;
+}
+
+a,a:hover,a:visited{
+color: inherit;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+span{
+	display: inline-block;
+}
